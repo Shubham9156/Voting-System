@@ -1,3 +1,3 @@
 # Voting-System
 
-<h1>using python</h1.
+<h1>using python</h1>
